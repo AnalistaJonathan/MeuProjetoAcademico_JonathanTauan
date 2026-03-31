@@ -20,13 +20,19 @@
 ![Diagrama de Classes](diagrama_classes.png)
 
 ## 🚀 Como Executar
+
 Abra no Eclipse
+
 Execute classe Main.java
 
 Cadastre seu usuário
+
 Opção 1: Cadastre eventos
+
 Opção 2: Liste ordenados
+
 Opção 3: Confirme participação
+
 Opção 8: Salve e saia
 
 
